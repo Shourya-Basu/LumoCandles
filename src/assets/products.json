@@ -1,0 +1,51 @@
+[
+  {
+      "id": "LC001",
+      "name": "Amber & Oud",
+      "tagline": "Deep, smoky warmth for quiet evenings",
+      "about": "A rich and grounding blend of warm amber resin and rare oud wood. This candle fills your space with a luxurious, smoky depth that lingers long after the flame goes out. Perfect for evenings when you want to unwind and feel anchored. Hand-poured in small batches using 100% natural soy wax.",
+      "price": 1299,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.i9lYIRhuxHhPOSJfK_3mFgHaGw%3Fpid%3DApi&f=1&ipt=cf52bd188d033bb64486d670bc6135cd91a30498954a912ea19ac0ca49a1f106&ipo=images"
+      
+  },{
+      "id": "LC002",
+      "name": "Warm Vanilla",
+      "tagline": "Sweet comfort in every flicker",
+      "about": "Soft, creamy, and instantly comforting — Warm Vanilla is the olfactory equivalent of a warm hug. Notes of toasted vanilla bean, caramel, and a hint of coconut make this candle a crowd favorite. Ideal for bedrooms, reading nooks, or any space you want to feel cozy.",
+      "price": 999,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.K-NCNplEn6gbRSI28ThPiAHaE8%3Fpid%3DApi&f=1&ipt=6d4d452224e2b7133e70ecc995facb5b96098ebbeacb682a00c513f20c1a3688&ipo=images"
+    },
+    {
+      "id": "LC003",
+      "name": "Cedar + Sage",
+      "tagline": "Forest air, bottled.",
+      "about": "Breathe in the clean, earthy calm of a morning forest walk. Cedar + Sage blends crisp white sage with warm cedarwood and a whisper of eucalyptus — cleansing without being sharp. Great for home offices, yoga spaces, or anywhere you need clarity and focus.",
+      "price": 1199,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.Tg-iVfD6VkeTIJEdSTXWqgHaHa%3Fpid%3DApi&f=1&ipt=cbe048cf68804f5d66385b0bc46f58d270029a39c031804c1dbbef1293bcee14&ipo=images"
+    },
+    {
+      "id": "LC004",
+      "name": "White Tea",
+      "tagline": "Light, clean, effortlessly elegant",
+      "about": "Delicate and refined, White Tea captures the serene feeling of a quiet morning ritual. Gentle notes of fresh white tea leaves, soft jasmine, and powdery musk create a clean, airy scent that never overwhelms. A minimalist's dream candle — understated luxury at its best.",
+      "price": 1099,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flunarfragranceswholesale.co.uk%2Fwp-content%2Fuploads%2F2024%2F01%2FWhite-Label-Candle-scaled.jpg&f=1&nofb=1&ipt=60a17a6942496cf474de9c16c115963152ce96594b503b96b67ae2543cc5e52b"
+    },
+    {
+      "id": "LC005",
+      "name": "Rose & Neroli",
+      "tagline": "Floral luxury, soft as petals",
+      "about": "An ode to femininity and quiet confidence. Rose & Neroli weaves together the full-bodied richness of Turkish rose with the bright, delicate sparkle of neroli blossom. A touch of warm musk at the base keeps it grounded and sensual. Beautifully gift-worthy.",
+      "price": 1399,
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.rJXr8DZ5fMrjp2vlcTKLFwHaLF%3Fpid%3DApi&f=1&ipt=47cc3af33e04faeb6b8f5e7c0a7aecf2b6fa3db8856dc56c2fa40d68bdb80655&ipo=images"
+    
+    },
+    {
+      "id": "LC006",
+      "name": "Neroli",
+      "tagline": "Floral luxury, soft as petals",
+      "about": "An ode to femininity and quiet confidence. Rose & Neroli weaves together the full-bodied richness of Turkish rose with the bright, delicate sparkle of neroli blossom. A touch of warm musk at the base keeps it grounded and sensual. Beautifully gift-worthy.",
+      "price": 2330400,
+      "image_url": "https://i.pinimg.com/1200x/5b/e2/1c/5be21c736cd455c95a5a72d05d4e1a39.jpg"
+    }
+]

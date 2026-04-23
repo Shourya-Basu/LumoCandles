@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Handmade",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "img": "/img2.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Long-lasting",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "img": "https://i.pinimg.com/1200x/ae/e7/32/aee732c1c774ce137d887ac8dcbb6988.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Natural",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "img": "https://i.pinimg.com/1200x/84/f6/78/84f67875f1b9ff0439a186bc5adf3e2d.jpg"
+  }
+]
